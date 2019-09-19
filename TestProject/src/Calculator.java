@@ -10,5 +10,6 @@ public class Calculator {
 	{
 		Calculator c=new Calculator();
 		System.out.println(c.add(20, 30));
+		System.out.println("This is my first program");
 	}
 }
